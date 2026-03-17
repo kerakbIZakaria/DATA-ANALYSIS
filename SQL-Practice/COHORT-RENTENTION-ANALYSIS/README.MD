@@ -102,20 +102,20 @@ ORDER BY o.cohort_month, month_number;
 ---
 ## Cohort Retention (Sample Data)
 
-![COHORT_RETENTION(SIMPLE DATA)](images/COHORT_RETENTION(SIMPLE DATA).png)
+![COHORT_RETENTION(SIMPLE DATA)](image/COHORT_RETENTION(SIMPLE DATA).png)
 
 
 ## 📊 Retention Matrix
 
 
-![Retention Matrix](images/RETENTION MATRIX.png)
+![Retention Matrix](image/RETENTION MATRIX.png)
 
 ---
 
 ## Heatmap Visualization
 
 
-![Cohort Retention Over Time (First 50 Rows)](images/Cohort Retention.png)
+![Cohort Retention Over Time (First 50 Rows)](image/Cohort Retention.png)
 
 ```python
 import pandas as pd
