@@ -107,7 +107,7 @@ ORDER BY o.cohort_month, month_number;
 ## 📊 Retention Matrix
 
 
-![Retention Matrix](image/RETENTION MATRIX.png)
+![Retention Matrix](image/RETENTIONMATRIX.png)
 
 ---
 
