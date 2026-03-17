@@ -114,7 +114,7 @@ ORDER BY o.cohort_month, month_number;
 ## Heatmap Visualization
 
 
-![Cohort Retention Over Time (First 50 Rows)](image/Cohort Retention.png)
+![Cohort Retention Over Time (First 50 Rows)](image/CohortRetention.png)
 
 ```python
 import pandas as pd
