@@ -102,7 +102,7 @@ ORDER BY o.cohort_month, month_number;
 ---
 ## Cohort Retention (Sample Data)
 
-![COHORT_RETENTION(SIMPLE DATA)](image/COHORT_RETENTION(SIMPLE DATA).png)
+![COHORT_RETENTION(SIMPLE DATA)](/SQL-Practice/image/COHORT_RETENTION(SIMPLE DATA).png)
 
 
 ## 📊 Retention Matrix
