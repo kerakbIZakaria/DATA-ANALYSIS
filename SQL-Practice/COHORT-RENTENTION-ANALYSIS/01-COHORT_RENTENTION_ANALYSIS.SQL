@@ -21,7 +21,6 @@ cohort_sizes AS (
     GROUP BY cohort_month
 ),
 month_series AS (
-    -- توليد كل combination من cohort_month و month_number (مثلاً 24 شهر للأمام)
     SELECT 
         cohort_month,
         generate_series(0, 24) AS month_number
